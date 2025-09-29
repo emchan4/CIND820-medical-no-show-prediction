@@ -21,5 +21,11 @@ This project is part of the CIND820 capstone course at Toronto Metropolitan Univ
 ## Status
 Milestone 2: Literature Review, Data Description, and Project Approach in progress.
 
+## Reports
+
+This repository includes documentation related to the CIND820 capstone project.
+
+- [Project Design Proposal This document outlines the problem statement, research questions, dataset rationale, and proposed methodology for predicting medical appointment no-shows using classification techniques.
+
 ## Author
 Emily Chan
