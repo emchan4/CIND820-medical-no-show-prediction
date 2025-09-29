@@ -25,7 +25,7 @@ Milestone 2: Literature Review, Data Description, and Project Approach in progre
 
 This repository includes documentation related to the CIND820 capstone project.
 
-- [Project Design Proposal This document outlines the problem statement, research questions, dataset rationale, and proposed methodology for predicting medical appointment no-shows using classification techniques.
+- [Project Design Proposal](reports/Chan_Emily_ProjectDesign.docxtement)  This document outlines the problem statement, research questions, dataset rationale, and proposed methodology for predicting medical appointment no-shows using classification techniques.
 
 ## Author
 Emily Chan
