@@ -7,7 +7,7 @@ TMU CIND820 Capstone Project - Medical no-how prediction
 This project is part of the CIND820 capstone course at Toronto Metropolitan University. It aims to predict whether a patient will attend their medical appointment using classification techniques.
 
 ## Dataset
-- Source: [Medical Appointment Scheduling System on Kaggle].(https://www.kaggle.com/datasets/carogonzalezgaltier/medical-appointment-scheduling-system)
+- Source: [Medical Appointment Scheduling System on Kaggle](https://www.kaggle.com/datasets/carogonzalezgaltier/medical-appointment-scheduling-system)
 - Logistic Regression
 - Decision Trees
 - Random Forest & XGBoost
