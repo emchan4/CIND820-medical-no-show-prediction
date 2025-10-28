@@ -8,7 +8,7 @@ This project is part of the CIND820 capstone course at Toronto Metropolitan Univ
 
 ## Dataset
 - Source: [Medical Appointment Scheduling System on Kaggle](https://www.kaggle.com/datasets/carogonzalezgaltier/medical-appointment-scheduling-system)
-- [Dataset zip file](Dataset/Medical_Appt_Scheduling_Data.zip)
+- [Dataset zip file](Dataset/Medical_Appt_Scheduling_Data.zip) This is a zip file containing the Medical Appointment Scheduling System dataset from Kaggle.
 - Logistic Regression
 - Decision Trees
 - Random Forest & XGBoost
