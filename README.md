@@ -30,8 +30,8 @@ This repository includes documentation related to the CIND820 capstone project.
 - [Literature Review, Data Description, and Project Approach](reports/Chan_Emily_ProjectDesign.docx)  This document contains a comprehensive review of related research, data description, and the proposed methodology.
 - [Initial Results and Code](reports/Chan_Emily_InitialResults.docx)  This document presents exploratory data analysis, data oreprocessing steps, feature engineering, and initial machine learning model development and evaluation, including performance metrics and insights.
 - [Google Colab Notebook](CIND820DataReview.ipynb) Includes data cleaning, summary statistics, identification of abnormal data, and dataset characteristics and constraints documentation.
-- [Module 3 Video Presentation](Presentations/Module 3 Presentation.mp4)  A short fine minute video walkthrough of initial results, key insights, and code implementation, recorded using Zoom.
-- [Module 3 Video Presentation Slides](Presentations/Presentation Deck Template with Logo.pptx) The PowerPoint slides used in the video presentation, summarizing data analysis, preprocessing steps, model evaluation, and key insights.
+- [Module 3 Video Presentation](Presentations/Module%3%Presentation.mp4)  A short fine minute video walkthrough of initial results, key insights, and code implementation, recorded using Zoom.
+- [Module 3 Video Presentation Slides](Presentations/Presentation%Deck%Template%with%Logo.pptx) The PowerPoint slides used in the video presentation, summarizing data analysis, preprocessing steps, model evaluation, and key insights.
 
 ## Author
 Emily Chan
