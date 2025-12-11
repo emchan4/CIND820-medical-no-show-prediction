@@ -20,7 +20,7 @@ This project is part of the CIND820 capstone course at Toronto Metropolitan Univ
 - GitHub
 
 ## Status
-Milestone 4: Final Results and Project Report - in progress.
+Milestone 5: Project Presentation - in progress.
 
 ## Reports
 
@@ -32,7 +32,7 @@ This repository includes documentation related to the CIND820 capstone project.
 - [Google Colab Notebook](CIND820DataReview.ipynb) Includes data cleaning, summary statistics, identification of abnormal data, and dataset characteristics and constraints documentation.
 - [Module 3 Video Presentation](Presentations/Module%203%20Presentation.mp4)  A short fine minute video walkthrough of initial results, key insights, and code implementation, recorded using Zoom.
 - [Module 3 Video Presentation Slides](Presentations/Presentation%20Deck%20Template%20with%20Logo.pptx) The PowerPoint slides used in the video presentation, summarizing data analysis, preprocessing steps, model evaluation, and key insights.
-- - [Module 4 Video Final Report](Presentations/Presentation%20Deck%20Template%20with%20Logo.pptx) The Final Report for the Project.
+- [Module 4 Video Final Report](reports/Chan_Emily_FinalReport.docx) The Final Report for the Project.
 
 ## Author
 Emily Chan
